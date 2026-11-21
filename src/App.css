@@ -9,7 +9,7 @@ body {
     "Apple SD Gothic Neo",
     "Malgun Gothic",
     sans-serif;
-  background: #f5f7fb;
+  background: #a5c0f6;
   color: #18243a;
 }
 .page {
@@ -40,7 +40,7 @@ body {
   margin-bottom: 16px;
 }
 .tab {
-  border: 1px solid #dfe5f0;
+  border: 1px solid #2c74fb;
   border-radius: 12px;
   padding: 14px 12px;
   background: white;
@@ -48,7 +48,7 @@ body {
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 7px;
   color: #32435e;
 }
 .tab span {
